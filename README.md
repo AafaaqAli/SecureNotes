@@ -1,4 +1,4 @@
-SecureNotes ![License MIT](https://img.shields.io/badge/license-Apache%20.0-blue)
+SecureNotes ![License MIT](https://img.shields.io/badge/license-Apache%202.0-blue)
 ===============
 
 ![Badge w/ Version](https://img.shields.io/badge/platform-Android-green)
