@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CleanArchitectureNoteApp</string>
+    <string name="app_name">SecureNotes</string>
+    <string name="app_name_debug">debug.SecureNotes</string>
+    <string name="app_name_qa">qa.SecureNotes</string>
 </resources>

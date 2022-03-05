@@ -6,7 +6,6 @@ import com.aafaq.securenotes.feature_note.domain.repository.NoteRepository
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.Flow
 
-@AndroidEntryPoint
 class NoteRepositoryImp(
     private val noteDao: NoteDao
 ): NoteRepository {
